@@ -1,0 +1,24 @@
+{
+	"host": "hub.lambdatest.com",
+	"username": "mudassars",
+	"access_key": "LoyMEMP9NWiHaeCpfBaGfu7c3hrjYfiksHEe6lSb3zJtqSGp3Z",
+	"commonCapabilities": {
+		"name": "parallel_test",
+		"build": "specflow-lambdatest",
+		"project": "Demo lambdatest"
+	},
+	"capabilities": [
+		{
+			"browserName": "chrome"
+		},
+		{
+			"browserName": "Firefox"
+		},
+		{
+			"browserName": "Edge"
+		},
+		{
+			"browserName": "Safari"
+		}
+	]
+}
