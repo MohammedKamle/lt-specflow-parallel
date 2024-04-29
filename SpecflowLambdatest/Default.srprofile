@@ -4,7 +4,7 @@
   <Execution stopAfterFailures="0" testThreadCount="5" testSchedulingMode="Sequential" retryCount="0" apartmentState="MTA" />
   <Environment testThreadIsolation="Process" />
   <TestAssemblyPaths>
-    <TestAssemblyPath>SpecflowBrowserStack.dll</TestAssemblyPath>
+    <TestAssemblyPath>SpecflowLambdatest.dll</TestAssemblyPath>
   </TestAssemblyPaths>
 
   <Targets>
