@@ -1,7 +1,7 @@
 {
 	"host": "hub.lambdatest.com",
-	"username": "mudassars",
-	"access_key": "LoyMEMP9NWiHaeCpfBaGfu7c3hrjYfiksHEe6lSb3zJtqSGp3Z",
+	"username": "<YOUR_USERNAME>",
+	"access_key": "<YOUR_ACCESSKEY>",
 	"commonCapabilities": {
 		"name": "parallel_test",
 		"build": "specflow-lambdatest",
