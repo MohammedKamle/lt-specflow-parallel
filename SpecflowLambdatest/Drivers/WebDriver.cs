@@ -39,10 +39,7 @@ namespace SpecflowLambdatest.Drivers
 				browserIndex = "0";
 			}
 			int testBrowserId = Convert.ToInt32(browserIndex);
-			//if (_currentLocal == null)
-			//{
-			//	_currentLocal = GetBrowserStackLocal();
-			//}
+			
 			return _browserSeleniumDriverFactory.GetForBrowser(testBrowserId);
 		}
 
